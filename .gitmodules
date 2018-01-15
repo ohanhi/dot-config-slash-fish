@@ -1,0 +1,3 @@
+[submodule "completions"]
+	path = completions
+	url = git@github.com:ohanhi/fish-elm-completions.git
