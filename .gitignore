@@ -1,1 +1,4 @@
 fishd.*
+
+# installed via fisher
+elm-*.fish
